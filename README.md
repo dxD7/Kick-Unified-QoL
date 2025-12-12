@@ -1,4 +1,4 @@
-# ⚡ Kick Unified QoL (Quality of Life) Userscript
+# ⚡ Kick Stream Enhancer Userscript
 
 A lightweight 3-in-1 collection of essential stream enhancements for Kick.com. Merges features for a seamless viewing experience.
 
