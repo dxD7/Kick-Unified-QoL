@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Kick Unified QoL (Volume Wheel + Auto-1080 + Auto-Theater)
+// @name         Kick Stream Enhancer (Volume Wheel + Auto-1080 + Auto-Theater)
 // @namespace    https://github.com/dxd7
 // @version      1.2
 // @description  FIXED: Resolution script now ignores /clips pages.
