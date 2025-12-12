@@ -56,7 +56,7 @@
 		}
 	}
 
-	/* ------------------ NAVIGATION & SPA HANDLING ------------------ */
+	/* ------------------ NAVIGATION ------------------ */
 
 	let lastUrl = location.href;
 	const navObserver = new MutationObserver(() => {
@@ -93,7 +93,7 @@
 		return parts.length === 1;
 	}
 
-	/* ------------------ VOLUME WHEEL (KNOWN WORKING CODE) ------------------ */
+	/* ------------------ VOLUME WHEEL ------------------ */
 
 	const playerSetupStore = new WeakSet();
 	const bodyObserver = new MutationObserver(() => {
@@ -244,7 +244,7 @@
 		}
 	}
 
-	/* ------------------ AUTO 1080p (KNOWN WORKING CODE) ------------------ */
+	/* ------------------ AUTO 1080p ------------------ */
 
 	let qualityInterval = null;
 	const MAX_QUALITY_ATTEMPTS = 120; // ~6 seconds if interval is 50ms
